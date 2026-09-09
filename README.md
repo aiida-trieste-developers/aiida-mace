@@ -62,3 +62,13 @@ the `300` and `400` codes of the base class.
 `MaceTrainWorkChain` extends `TrainWorkChain` and handles restarts. When a calculation runs out
 of walltime it is restarted from the remote folder of the previous run, so datasets and
 checkpoints already present on the remote computer are reused.
+
+## Acknowledgments
+
+This project was supported by:
+
+- **[Università degli Studi di Trieste](https://portale.units.it/en)**
+- **[Scuola Internazionale Superiore di Studi Avanzati](https://www.sissa.it/it)**
+- **[Centro Nazionale di Ricerca HPC, Big Data e Quantum Computing](https://www.supercomputing-icsc.it/en/icsc-home/)**
+- **[EU Centre of Excellence "MaX – Materials Design at the Exascale"](https://www.max-centre.eu/)**
+- **POC Programma Operativo Complementare al POR FSE Friuli Venezia Giulia 2014-2020**
